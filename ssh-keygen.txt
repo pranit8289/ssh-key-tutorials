@@ -1,0 +1,3 @@
+ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519_personal -C "pranit.py9@gmail.com"
+
+ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519_kodesk -C "code.base@kodesk.in"
